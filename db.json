@@ -1,0 +1,257 @@
+{
+  "products": [
+    {
+    	"id": 1,
+      "name": "Laptop",
+      "price": 1500.99,
+      "image_url": "https://tinyurl.com/23ljbjcl"
+    },
+    {
+    	"id": 2,
+      "name": "Laptop",
+      "price": 3000,
+      "image_url": "https://tinyurl.com/23ukakrs"
+    },
+    {
+    	"id": 3,
+      "name": "Laptop",
+      "price": 1000,
+      "image_url": "https://tinyurl.com/22rbfaqf"
+    },
+    {
+    	"id": 4,
+      "name": "Laptop",
+      "price": 99,
+      "image_url": "https://tinyurl.com/26ha9c7d"
+    },
+        {
+    	"id": 5,
+      "name": "Laptop",
+      "price": 88,
+      "image_url": "https://tinyurl.com/2cypjoxp"
+    },
+        {
+    	"id": 6,
+      "name": "Laptop",
+      "price": 78,
+      "image_url": "https://tinyurl.com/28zvs8fu"
+    },
+        {
+    	"id": 7,
+      "name": "Laptop",
+      "price": 19,
+      "image_url": "https://tinyurl.com/264mret4"
+    },
+        {
+    	"id": 8,
+      "name": "Laptop",
+      "price": 12.99,
+      "image_url": "https://tinyurl.com/23ljbjcl"
+    },
+        {
+    	"id": 9,
+      "name": "Headphones",
+      "price": 15.99,
+      "image_url": "https://tinyurl.com/23fl5kzo"
+    },
+        {
+    	"id": 10,
+      "name": "Headphones",
+      "price": 16.99,
+      "image_url": "https://tinyurl.com/2dckqygz"
+    },
+        {
+    	"id": 11,
+      "name": "Headphones",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/2bflvb6b"
+    },
+        {
+    	"id": 12,
+      "name": "Headphones",
+      "price": 9.99,
+      "image_url": "https://tinyurl.com/22pauk7c"
+    },
+        {
+    	"id": 13,
+      "name": "Headphones",
+      "price": 6.99,
+      "image_url": "https://tinyurl.com/2d6btblf"
+    },
+        {
+    	"id": 14,
+      "name": "Mouse",
+      "price": 10.99,
+      "image_url": "https://tinyurl.com/29mmdjh4"
+    },
+        {
+    	"id": 15,
+      "name": "Mouse",
+      "price": 12.99,
+      "image_url": "https://tinyurl.com/2yp8d57f"
+    },
+        {
+    	"id": 16,
+      "name": "Mouse",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/26tu2bhb"
+    },
+        {
+    	"id": 17,
+      "name": "Mouse",
+      "price": 19,
+      "image_url": "https://tinyurl.com/2cr5bwlu"
+    },
+        {
+    	"id": 18,
+      "name": "Mouse",
+      "price": 18,
+      "image_url": "https://tinyurl.com/2bks8k4f"
+    },
+        {
+    	"id": 19,
+      "name": "Mouse",
+      "price": 36,
+      "image_url": "https://tinyurl.com/266xjnz2"
+    },
+            {
+    	"id": 20,
+      "name": "Mouse",
+      "price": 18.99,
+      "image_url": "https://tinyurl.com/2y6wjuwz"
+    },   
+         {
+    	"id": 21,
+      "name": "Headphones",
+      "price": 16.99,
+      "image_url": "https://tinyurl.com/28bl88nr"
+    }, 
+           {
+    	"id": 22,
+      "name": "Headphones",
+      "price": 21.99,
+      "image_url": "https://tinyurl.com/2c69hc6c"
+    }, 
+           {
+    	"id": 23,
+      "name": "Laptop Bag",
+      "price": 22.99,
+      "image_url": "https://tinyurl.com/2bfmzd5m"
+    }, 
+           {
+    	"id": 24,
+      "name": "Laptop Bag",
+      "price": 30.99,
+      "image_url": "https://tinyurl.com/26utvdk9"
+    },
+            {
+    	"id": 25,
+      "name": "Laptop Bag",
+      "price": 49,
+      "image_url": "https://tinyurl.com/2b7k6flq"
+    },
+            {
+    	"id": 26,
+      "name": "Laptop Bag",
+      "price": 22,
+      "image_url": "https://tinyurl.com/29u8j69p"
+    },
+            {
+    	"id": 27,
+      "name": "Monitor",
+      "price": 45,
+      "image_url": "https://tinyurl.com/299qv82l"
+    },
+            {
+    	"id": 28,
+      "name": "Monitor",
+      "price": 88.99,
+      "image_url": "https://tinyurl.com/2btywjsz"
+    },
+            {
+    	"id": 29,
+      "name": "Monitor",
+      "price": 56.99,
+      "image_url": "https://tinyurl.com/27pb4znz"
+    },
+            {
+    	"id": 30,
+      "name": "Monitor",
+      "price": 47.99,
+      "image_url": "https://tinyurl.com/293e288u"
+    },
+            {
+    	"id": 31,
+      "name": "Monitor",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/287ecfe4"
+    },
+            {
+    	"id": 32,
+      "name": "Monitor",
+      "price": 41.99,
+      "image_url": "https://tinyurl.com/25e4blro"
+    },
+            {
+    	"id": 33,
+      "name": "Monitor",
+      "price": 44.99,
+      "image_url": "https://tinyurl.com/24lpu3l2"
+    },
+            {
+    	"id": 34,
+      "name": "Phone",
+      "price": 33.99,
+      "image_url": "https://tinyurl.com/29b7nybc"
+    },
+            {
+    	"id": 35,
+      "name": "Phone",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/29yuxy6r"
+    },
+            {
+    	"id": 1,
+      "name": "Phone",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/23qlrwxt"
+    },
+            {
+    	"id": 36,
+      "name": "Phone",
+      "price": 45.99,
+      "image_url": "https://tinyurl.com/28zm623f"
+    },
+            {
+    	"id": 37,
+      "name": "Mouse",
+      "price": 19.99,
+      "image_url": "https://tinyurl.com/2bks8k4f"
+    },
+            {
+    	"id": 38,
+      "name": "Laptop Bag",
+      "price": 37.99,
+      "image_url": "https://tinyurl.com/27v8ljg4"
+    },
+            {
+    	"id": 39,
+      "name": "Phone",
+      "price": 36.99,
+      "image_url": "https://tinyurl.com/267aw8rg"
+    },
+            {
+    	"id": 40,
+      "name": "Phone",
+      "price": 40,
+      "image_url": "https://tinyurl.com/2749gfbc"
+    },
+            {
+    	"id": 41,
+      "name": "Phone",
+      "price": 30,
+      "image_url": "https://tinyurl.com/2a3gyffe"
+    }
+  ]
+}
+
